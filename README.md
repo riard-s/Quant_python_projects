@@ -1,4 +1,4 @@
-# Quant_python_projects
+# Quant python projects
 
 Project 1: 
 Card Draw Monte Carlo Simulator 
